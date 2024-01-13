@@ -1,2 +1,4 @@
-
 /* Your CSS Code here. */
+body{background-color:black}
+.holder{display:flex;justify-content:space-between;flex-wrap:wrap}
+.item{width:200px;height:200px;background-color:yellow;margin:10px}
